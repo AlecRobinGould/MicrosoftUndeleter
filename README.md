@@ -24,3 +24,10 @@ edit to your needs, then copy paste the above script, and run it.
 ![Screenshot 2024-09-20 092302](https://github.com/user-attachments/assets/0dd5a178-6c53-49c9-879d-5727c5dc6eba)
 
 ![image](https://github.com/user-attachments/assets/56828bbb-b546-49c0-950d-06410035fd54)
+
+
+## Future work
+
+ - Add a date/time filter feature to limit delete window
+ - Add in auto select feature (User will still manually press restore)
+ - Improve load times
